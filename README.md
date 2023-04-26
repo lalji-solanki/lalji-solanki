@@ -32,7 +32,7 @@ I am a software developer with 4 years of experience in C#, .NET Core, .NET MVC,
 
 ## Work Experience
 
-### Software Developer - XYZ Inc.
+### Software Developer
 
 #### May 2022 - Present
 
