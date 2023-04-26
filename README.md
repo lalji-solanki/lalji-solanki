@@ -76,9 +76,8 @@ I am a software developer with 4 years of experience in C#, .NET Core, .NET MVC,
 
 ## Contact
 
-- Email: er.laljisolanki@gmail.com
 
-- LinkedIn: [linkedin.com/in/lalji.solanki](https://www.linkedin.com/in/lalji.solanki/)
+- LinkedIn: [linkedin.com/in/lalji.solanki](https://www.linkedin.com/in/lalji-solanki/)
 
 - GitHub: [github.com/lalji-solanki](https://github.com/lalji-solanki)
 
